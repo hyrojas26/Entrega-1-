@@ -1,4 +1,4 @@
-# Entrega 1 — Semana 3
+# Entrega 1 Hector Rojas — Semana 3
 
 Proyecto de Eclipse listo para importar (`File > Import > Existing Projects into Workspace`).
 
